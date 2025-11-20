@@ -15,3 +15,17 @@ div{
 
 
 }
+
+.box{
+  height: 110px;
+  width: 110px;
+}
+
+.green{
+  backgorund-color:green;
+}
+.red{
+  background-color:red;
+}
+
+  
