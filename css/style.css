@@ -19,7 +19,7 @@ background-image: url("../webp.jpg");
 
 @media (min-width:576px){
   .firstDiv{
-    flex-direction:colon;
+    flex-direction:column;
   }
   .childDiv{
     width:100%;
