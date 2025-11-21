@@ -29,4 +29,23 @@ div{
   background-color:red;
 }
 
+.parent{
+        width:500px;
+        height:500px;
+        dsiplay:flex;
+
+}
+
+.child1{
+  height:100%;
+ width:50%;
+  background-color:green;
+}
+.child2{ 
+  height:100%;
+ width:50%;
+  background-color:red;
+}
+  
+
   
