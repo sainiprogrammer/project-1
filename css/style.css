@@ -33,6 +33,8 @@ div{
         width:500px;
         height:500px;
         dsiplay:flex;
+   justify-content: center;
+            align-items: center;
 
 }
 
