@@ -21,8 +21,8 @@ div{
 }
 
  .childDiv{
-   width:50%
-   height:50%
+   width:50%;
+   height:50%;
    color:white;
    background-color:red;
  }
