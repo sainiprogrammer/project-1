@@ -16,3 +16,12 @@
 background-image: url("../webp.jpg");
 
 }
+
+@media (max-width:576px){
+  .firstDiv{
+    flex-direction:colon;
+  }
+  .childDiv{
+    width:100;
+  }
+}
