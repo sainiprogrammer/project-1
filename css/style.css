@@ -16,24 +16,17 @@ div{
 
 } */ */
 
+.firstDiv{
+  display: flex;
+}
 
+ .childDiv{
+   width:50%
+   height:50%
+   color:white;
+   background-color:red;
+ }
+.childDiv:nth-of-type(2){
+background-color:green !important;
 
-.parent {
-            width: 400px;
-            height: 300px;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-        }
-        
-        .child1 {
-            background-color: red;
-            width: 50%;
-            height: 100%;
-        }
-        
-        .child2 {
-            background-color: green;
-            width: 50%;
-            height: 100%;
-        }
+}
