@@ -17,7 +17,7 @@ background-image: url("../webp.jpg");
 
 }
 
-@media (max-width:576px){
+@media (min-width:576px){
   .firstDiv{
     flex-direction:colon;
   }
