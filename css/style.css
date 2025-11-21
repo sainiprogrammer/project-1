@@ -22,6 +22,6 @@ background-image: url("../webp.jpg");
     flex-direction:colon;
   }
   .childDiv{
-    width:100;
+    width:100%;
   }
 }
