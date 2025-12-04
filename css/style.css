@@ -40,7 +40,7 @@
   justify-content:space-around;
 }
 .menu .menubar ul li{
-  list-syle-type:none;
+  list-syle:none;
   padding-bottom:2.5%;
 }
 .menu .menubar ul li a{
