@@ -1,1 +1,20 @@
+<html>
+  <head>
+    <title> this is my first project</title>
+    <link rel="stylesheet" href="css/style.css">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  </head>
+  <body>
+    <div id="callmenu"></div>
+   <script>
+     fetch("header.html")
+     .then(response=> response.text())
+     .then(data=>{
+       document.getElementById("callmenu").innerhtml=data;
+     });
+   </script>
+
+    <h1>Hello this is my first site</h1>      
+  </body>
+</html>
 
