@@ -79,6 +79,7 @@
   position: relative; 
   white-space:nowrep;
   overflow:hidden;
+  text-overflow:ellpsis;
 }
 
 .menubar ul li:hover .submenu {
