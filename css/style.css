@@ -80,6 +80,8 @@
   white-space:nowrep;
   overflow:hidden;
   text-overflow:ellipsis;
+  display: block;
+  width: 100%;
 }
 
 .menubar ul li:hover .submenu {
